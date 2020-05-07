@@ -1,0 +1,17 @@
+/* TEAM */
+	Developer: DotEvolve
+	Contact: info [at] DotEvolve.co.in
+	Twitter: @DotEvolve
+	From: Lucknow, UP, India
+
+/* THANKS */
+    Name: Mohd Sadiq
+    Name: Murtaza Hasan
+
+/* SITE */
+	Last update:2020/05/01
+	Language: English
+	Standards: HTML5, CSS3, JS
+    Components: jQuery
+	Doctype: HTML5
+	IDE: WebStorm
